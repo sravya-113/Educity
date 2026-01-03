@@ -1,4 +1,4 @@
-# 🎓 Educity
+# 🎓 Edusity
 
 A **modern, responsive educational website landing page** built using **React** and **Vite**. Edusity serves as a comprehensive web platform for a **university or college**, showcasing academic programs, campus life, testimonials, and a fully functional contact system — all within a clean single-page design.
 
